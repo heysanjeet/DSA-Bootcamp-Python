@@ -1,6 +1,5 @@
 #run the code
 import random
-from unittest.mock import right
 
 while True:
   choice =input("Do you want to play the game (Y/N): ").lower()
